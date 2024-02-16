@@ -1,1 +1,1 @@
-# Python_Exploratory_Data_Analysis
+The project contain the dataset of dairy industry should be contribution of different farm size and self life of each dairy product storage condition is impact on each product and Customer preferences and buying behavior and all the other thinks to explain the exploratory data analysis with python to get comprehension from the data# Python_Exploratory_Data_Analysis
